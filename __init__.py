@@ -1,1 +1,1 @@
-from error_ellipse import error_ellipse
+from .error_ellipse import error_ellipse
